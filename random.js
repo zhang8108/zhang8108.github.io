@@ -78,7 +78,7 @@
 		}
 		else
 		{
-			document.writeln("<script src='http:\/\/e.ejiakm.net\/"+adnum+"'><\/script>");
+			document.writeln("<script src='https:\/\/e.ejiakm.net\/"+adnum+"'><\/script>");
 			//document.writeln("<script src='http://m.dbloges.com/1126'><\/script>");
 		}
     	
