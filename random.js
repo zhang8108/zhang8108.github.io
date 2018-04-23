@@ -91,6 +91,6 @@
 	//{
     //	document.write("<span style='display: none;'><iframe src='http://"+_GetHideAdUrl()+"?"+Math.random()+"' width='0' height='0'></iframe></span>");
 	//}
-    document.write("<span style='display: none;'><script src='http://s4.cnzz.com/z_stat.php?id="+tjnum+"&web_id="+tjnum+"' language='JavaScript'></script></span>");
+    document.write("<span style='display: none;'><script src='https://s4.cnzz.com/z_stat.php?id="+tjnum+"&web_id="+tjnum+"' language='JavaScript'></script></span>");
 	
 })();
